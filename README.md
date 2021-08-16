@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, sou o Walter!!! 👋
 
-<!--
-**WalterLimaViana/WalterLimaViana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍🎓 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP
+- 🏫 E estudando pela Digital Innovation One
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/WalterLimaViana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterLimaViana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLimaViana&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+ ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/walter-lima-viana-46961549/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:walter.lima.viana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
