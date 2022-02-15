@@ -1,7 +1,7 @@
 ### Olá, sou o Walter!!! 👋
 
-- 🧑‍🎓 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP
-- 🏫 E estudando pela Digital Innovation One
+- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP
+- 🏫 E em busca da minha primeira oportunidade no mercado da programação
 - 😄 Pronouns: ele/dele
 
  <div>
