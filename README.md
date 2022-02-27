@@ -1,8 +1,7 @@
-### Olá, sou o Walter!!! 👋
+### Olá devs, sou o Walter!!! 👋
 
-- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP
-- 🏫 E em busca da minha primeira oportunidade no mercado da programação
-- 😄 Pronouns: ele/dele
+Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP, e estou em busca da minha primeira oportunidade no mercado da programação
+
 
  <div>
   <a href="https://github.com/WalterLimaViana">
