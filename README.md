@@ -12,7 +12,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista -
  ##
   
 <div>
-  <a href="https://www.linkedin.com/in/walter-lima-viana-46961549/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/walter-lima-viana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:walter.lima.viana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
