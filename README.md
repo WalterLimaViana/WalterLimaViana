@@ -1,6 +1,6 @@
 ### Olá devs, sou o Walter!!! 👋
 
-Sou dev mobile. Tenho desenvolvido alguns projetos mobile, utilizando as linguagens flutter e dart, e também web, utilizando as linguagens HTML, CSS e JavaScript.
+Sou dev mobile. Tenho desenvolvido alguns projetos mobile, utilizando as linguagens flutter e dart, além de alguns projetos utilizando Python e também web, utilizando as linguagens HTML, CSS e JavaScript.
 
 
  <div>
