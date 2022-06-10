@@ -1,14 +1,19 @@
-### Olá devs, sou o Walter!!! 👋
+## Olá devs, sou o Walter!!! 👋
 
 Sou dev mobile. Tenho desenvolvido alguns projetos mobile, utilizando as linguagens flutter e dart, além de alguns projetos utilizando Python e também web, utilizando as linguagens HTML, CSS e JavaScript.
 
 
  <div>
+ <div align='center'>
   <a href="https://github.com/WalterLimaViana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterLimaViana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLimaViana&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+ <div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+            
+          
+ </div>
  ## Contato
   
 <div>
